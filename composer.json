@@ -1,0 +1,13 @@
+{
+    "name": "estructura/mvc",
+    "description": "Proyecto PHP con MVC",
+    "type": "project",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
+
