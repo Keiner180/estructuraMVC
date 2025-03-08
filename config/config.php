@@ -1,7 +1,7 @@
 <?php
     const APP_URL = "http://localhost/estructuramvc/"; //*? Url del proyecto (Modificar si se sube a un hosting)
 
-    const APP_NAME = "ESTRUCTURA MVC"; //Nombre del proyecto
+    const APP_NAME = "ESTRUCTURA  MVC"; //Nombre del proyecto
     const APP_SESSION_NAME = "MVC";
 
 
