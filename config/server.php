@@ -1,7 +1,7 @@
 <?php
 	//? Constantes para la conexión a la base de datos
 	const DB_SERVER = "localhost";
-	const DB_NAME = "prestamos";
+	const DB_NAME = "nombreBaseDatos";
 	const DB_USER = "root"; 	//!Cambair por la que el hosting te proporciona
 	const DB_PASSWORD = "";	 //!Cambair por la que el hosting te proporciona
 
